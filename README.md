@@ -1,0 +1,5 @@
+- osint
+- 3D design
+- web dev
+- crypto stacker
+- cyber security
